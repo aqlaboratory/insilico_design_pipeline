@@ -1,0 +1,132 @@
+ATOM      1  CA  ALA A   1     -12.135   3.191  -8.191                       C  
+ATOM      2  CA  ALA A   2     -13.975   0.064  -6.914                       C  
+ATOM      3  CA  ALA A   3     -12.411  -2.274  -4.287                       C  
+ATOM      4  CA  ALA A   4      -12.02  -4.982  -6.994                       C  
+ATOM      5  CA  ALA A   5     -10.135  -2.539  -9.284                       C  
+ATOM      6  CA  ALA A   6      -7.757  -1.593  -6.421                       C  
+ATOM      7  CA  ALA A   7       -7.16    -5.3  -5.602                       C  
+ATOM      8  CA  ALA A   8      -6.407  -6.061  -9.299                       C  
+ATOM      9  CA  ALA A   9      -3.958  -3.111  -9.466                       C  
+ATOM     10  CA  ALA A  10      -2.128  -4.356  -6.327                       C  
+ATOM     11  CA  ALA A  11      -2.023  -7.949  -7.702                       C  
+ATOM     12  CA  ALA A  12      -0.254  -6.676 -10.877                       C  
+ATOM     13  CA  ALA A  13       2.667  -5.284    -8.8                       C  
+ATOM     14  CA  ALA A  14       5.743  -7.567  -8.787                       C  
+ATOM     15  CA  ASN A  15       6.472  -8.756  -5.218                  A    C  
+ATOM     16  CA  SER A  16       10.22  -8.739  -6.075                  A    C  
+ATOM     17  CA  GLU A  17      10.118  -4.965  -6.796                  A    C  
+ATOM     18  CA  LEU A  18        8.03  -4.157  -3.677                  A    C  
+ATOM     19  CA  LEU A  19      10.524  -5.901  -1.339                  A    C  
+ATOM     20  CA  SER A  20      13.472  -4.224  -3.136                  A    C  
+ATOM     21  CA  LEU A  21      11.962  -0.779  -2.347                  A    C  
+ATOM     22  CA  ILE A  22      11.517  -1.788   1.347                  A    C  
+ATOM     23  CA  ASN A  23      15.317  -2.278   1.639                  A    C  
+ATOM     24  CA  ASP A  24      16.128   1.365   0.672                  A    C  
+ATOM     25  CA  MET A  25      13.712   3.283   2.951                  A    C  
+ATOM     26  CA  PRO A  26      15.368   5.185   5.883                  A    C  
+ATOM     27  CA  ILE A  27      13.983   2.683   8.462                  A    C  
+ATOM     28  CA  THR A  28      15.322   0.058   10.88                  A    C  
+ATOM     29  CA  ASN A  29      16.079  -3.497    9.66                  A    C  
+ATOM     30  CA  ASP A  30       13.22  -4.626   11.99                  A    C  
+ATOM     31  CA  GLN A  31      10.845  -2.186  10.208                  A    C  
+ATOM     32  CA  LYS A  32      12.035  -3.575   6.822                  A    C  
+ATOM     33  CA  LYS A  33      11.579  -7.139   8.214                  A    C  
+ATOM     34  CA  LEU A  34       8.031  -6.223   9.328                  A    C  
+ATOM     35  CA  MET A  35         7.2  -4.766   5.881                  A    C  
+ATOM     36  CA  SER A  36       8.808  -7.771   4.076                  A    C  
+ATOM     37  CA  ASN A  37        6.73 -10.288   6.098                  A    C  
+ATOM     38  CA  ASN A  38       3.435  -8.348   5.849                  A    C  
+ATOM     39  CA  VAL A  39       3.713  -7.178   2.183                  A    C  
+ATOM     40  CA  ALA A  40       4.469 -10.775   1.056                       C  
+ATOM     41  CA  ALA A  41       1.368 -12.032   2.947                       C  
+ATOM     42  CA  ALA A  42      -0.849  -9.201   1.577                       C  
+ATOM     43  CA  ALA A  43       0.262  -9.805  -2.051                       C  
+ATOM     44  CA  ALA A  44      -0.258 -13.595  -1.674                       C  
+ATOM     45  CA  ALA A  45       -3.79 -13.044  -0.265                       C  
+ATOM     46  CA  ALA A  46      -4.646 -10.679  -3.174                       C  
+ATOM     47  CA  ALA A  47      -3.289 -13.199  -5.763                       C  
+ATOM     48  CA  ALA A  48      -5.343 -16.017  -4.144                       C  
+ATOM     49  CA  ALA A  49      -8.545 -13.857  -4.348                       C  
+ATOM     50  CA  ALA A  50      -8.993  -14.15  -0.548                       C  
+ATOM     51  CA  ALA A  51     -12.006 -12.502   1.148                       C  
+ATOM     52  CA  ALA A  52     -11.814  -8.805   2.181                       C  
+ATOM     53  CA  ALA A  53     -12.282  -9.965   5.825                       C  
+ATOM     54  CA  ALA A  54       -8.86 -11.719   5.657                       C  
+ATOM     55  CA  ALA A  55      -7.212  -8.462   4.439                       C  
+ATOM     56  CA  ALA A  56      -8.931  -6.563   7.305                       C  
+ATOM     57  CA  ALA A  57      -7.559  -9.148   9.794                       C  
+ATOM     58  CA  ALA A  58      -4.016  -8.575     8.4                       C  
+ATOM     59  CA  ALA A  59      -4.577  -4.787   8.688                       C  
+ATOM     60  CA  ALA A  60      -5.551  -5.233  12.387                       C  
+ATOM     61  CA  ALA A  61      -2.457  -7.424  13.053                       C  
+ATOM     62  CA  ALA A  62      -0.183  -4.569  11.822                       C  
+ATOM     63  CA  ALA A  63      -1.755  -1.898  14.102                       C  
+ATOM     64  CA  ALA A  64       0.561  -0.605  16.879                       C  
+ATOM     65  CA  ALA A  65        3.63   -2.32  15.247                       C  
+ATOM     66  CA  ALA A  66       5.367   1.089  14.772                       C  
+ATOM     67  CA  ALA A  67       5.785   3.132  11.552                       C  
+ATOM     68  CA  ALA A  68        5.94   0.024   9.291                       C  
+ATOM     69  CA  ALA A  69       2.713  -1.323  10.888                       C  
+ATOM     70  CA  ALA A  70       0.932   1.997  10.163                       C  
+ATOM     71  CA  ALA A  71        2.19   1.925   6.527                       C  
+ATOM     72  CA  ALA A  72       1.015  -1.715   6.089                       C  
+ATOM     73  CA  ALA A  73      -2.426  -0.861   7.566                       C  
+ATOM     74  CA  ALA A  74      -2.819   1.945   4.969                       C  
+ATOM     75  CA  ALA A  75      -1.714  -0.409    2.14                       C  
+ATOM     76  CA  ALA A  76      -4.379  -2.914   3.321                       C  
+ATOM     77  CA  ALA A  77      -7.019  -0.116   3.268                       C  
+ATOM     78  CA  ALA A  78      -5.976   0.669  -0.347                       C  
+ATOM     79  CA  ALA A  79      -6.282  -3.053  -1.299                       C  
+ATOM     80  CA  ALA A  80      -9.781  -3.113     0.3                       C  
+ATOM     81  CA  ALA A  81     -10.758   0.021  -1.735                       C  
+ATOM     82  CA  ALA A  82      -11.43   1.994    1.51                       C  
+ATOM     83  CA  PHE A  83      -8.854   4.567    0.32                  B    C  
+ATOM     84  CA  VAL A  84      -7.217   5.706  -2.947                  B    C  
+ATOM     85  CA  PRO A  85      -4.034    7.79  -2.346                  B    C  
+ATOM     86  CA  CYS A  86      -3.473  10.858  -4.564                  B    C  
+ATOM     87  CA  SER A  87       0.169   9.712  -5.055                  B    C  
+ATOM     88  CA  ILE A  88      -0.975   6.998  -7.534                  B    C  
+ATOM     89  CA  CYS A  89      -3.405   9.188   -9.54                  B    C  
+ATOM     90  CA  SER A  90       -1.06   9.813   -12.5                  B    C  
+ATOM     91  CA  ASN A  91      -3.071  11.718 -15.159                  B    C  
+ATOM     92  CA  ASN A  92      -6.511  10.234 -14.271                  B    C  
+ATOM     93  CA  PRO A  93      -9.049  13.043 -13.517                  B    C  
+ATOM     94  CA  THR A  94     -11.444  10.521 -11.879                  B    C  
+ATOM     95  CA  CYS A  95      -8.779   9.198   -9.49                  B    C  
+ATOM     96  CA  TRP A  96      -7.825  12.822  -8.664                  B    C  
+ATOM     97  CA  ALA A  97     -11.463  13.708  -7.845                  B    C  
+ATOM     98  CA  ILE A  98     -11.836  10.889  -5.242                  B    C  
+ATOM     99  CA  CYS A  99      -8.299  10.362  -3.872                  B    C  
+ATOM    100  CA  LYS A 100      -7.059  11.083  -0.349                  B    C  
+ATOM    101  CA  ARG A 101      -4.126  13.472   0.052                  B    C  
+ATOM    102  CA  ILE A 102      -1.091  12.623   2.211                  B    C  
+ATOM    103  CA  ALA A 103      -2.155  15.464   4.584                       C  
+ATOM    104  CA  ALA A 104      -5.376  13.533   5.438                       C  
+ATOM    105  CA  ALA A 105       -3.15  10.816   7.022                       C  
+ATOM    106  CA  ALA A 106      -0.777  13.144   8.996                       C  
+ATOM    107  CA  ALA A 107      -2.721  12.582  12.274                       C  
+ATOM    108  CA  ALA A 108      -2.197   8.774   12.05                       C  
+ATOM    109  CA  ALA A 109       1.169   8.326  10.266                       C  
+ATOM    110  CA  ALA A 110       4.688   9.594  11.001                       C  
+ATOM    111  CA  ALA A 111        6.75  11.527   8.405                       C  
+ATOM    112  CA  ALA A 112       8.824   8.361   7.689                       C  
+ATOM    113  CA  ALA A 113       5.634   6.286   7.136                       C  
+ATOM    114  CA  ALA A 114        4.22   8.972   4.778                       C  
+ATOM    115  CA  ALA A 115       7.494   8.992   2.769                       C  
+ATOM    116  CA  ALA A 116       7.425   5.156   2.511                       C  
+ATOM    117  CA  ALA A 117       3.733    5.23   1.428                       C  
+ATOM    118  CA  ALA A 118       4.529   7.813  -1.314                       C  
+ATOM    119  CA  ALA A 119       7.445   5.674  -2.626                       C  
+ATOM    120  CA  ALA A 120       5.243   2.525  -2.789                       C  
+ATOM    121  CA  ALA A 121       2.351   4.429  -4.449                       C  
+ATOM    122  CA  ALA A 122       4.779   5.828  -7.092                       C  
+ATOM    123  CA  ALA A 123       5.943   2.237  -7.818                       C  
+ATOM    124  CA  ALA A 124       2.277   1.108   -8.16                       C  
+ATOM    125  CA  ALA A 125       1.632   4.068 -10.526                       C  
+ATOM    126  CA  ALA A 126       4.639   3.053 -12.701                       C  
+ATOM    127  CA  ALA A 127       3.406  -0.584 -12.859                       C  
+ATOM    128  CA  ALA A 128      -0.121   0.559 -13.899                       C  
+ATOM    129  CA  ALA A 129       1.294   2.856 -16.645                       C  
+ATOM    130  CA  ALA A 130       3.351   -0.04 -18.139                       C  
+ATOM    131  CA  ALA A 131       0.182  -2.221 -18.509                       C  
+ATOM    132  CA  ALA A 132      -1.705   0.317 -20.749                       C  

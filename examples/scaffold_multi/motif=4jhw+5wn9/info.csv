@@ -1,0 +1,2 @@
+domain,designed_pct_helix,designed_pct_strand,designed_pct_ss,designed_pct_left_helix,generated_pct_helix,generated_pct_strand,generated_pct_ss,generated_pct_left_helix,seqlen,scTM,scRMSD,pLDDT,pAE,motif_ca_rmsd,motif_bb_rmsd,single_cluster_idx,complete_cluster_idx,average_cluster_idx
+example,0.598,0.0,0.598,0.0,0.598,0.0,0.598,0.0,132,0.962,0.891,82.105,4.507,0.556,0.785,0,0,0

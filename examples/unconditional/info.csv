@@ -1,0 +1,2 @@
+domain,designed_pct_helix,designed_pct_strand,designed_pct_ss,designed_pct_left_helix,generated_pct_helix,generated_pct_strand,generated_pct_ss,generated_pct_left_helix,seqlen,scTM,scRMSD,pLDDT,pAE,single_cluster_idx,complete_cluster_idx,average_cluster_idx,max_pdb_name,max_pdb_tm
+example,0.763,0.0,0.763,0.0,0.757,0.0,0.757,0.0,173,0.984,0.64,92.73,2.052,0,0,0,5y4c,0.456
