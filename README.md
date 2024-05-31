@@ -91,6 +91,7 @@ Assume that a set of generated structure is assessed by the above standard pipel
 ```
 python pipeline/diversity/evaluate.py --rootdir [ROOTDIR] --num_cpus [NUM_CPUS]
 ```
+Our default value of `num_cpus` is 1. We found this can be slow, so we recommend setting the value to the number of physical cores or the number of processes you want to run in parallel. 
 
 Results are stored by updating `info.csv` in the root directory to include
 
