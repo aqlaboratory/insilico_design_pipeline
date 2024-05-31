@@ -56,10 +56,10 @@ Our design package consists of three separate pipelines:
 Evaluate a set of generated structures by running
 
 ```
-python pipeline/standard/evaluate.py --version [VERSION] --rootdir [ROOTDIR] --num_devices [NUM_GPUS]
+python pipeline/standard/evaluate.py --version [VERSION] --rootdir [ROOTDIR]
 ```
 
-Our standard pipeline currently supports evaluation of structures from unconditional generation (by setting version to `unconditional`) and motif scaffolding (`scaffold`). For both modes, we assume that the root directory contains a folder named `pdbs`, which contains the PDB files of generated structures to be evaluated. For motif scaffolding, we additionally assume that the root directory contains a folder named `motif_pdbs`, which contains the PDB files of the corresponding motif structures (with the same filename as the generated structure and residue index aligned). Note that for motif scaffolding, we also support evaluations of multiple problems at the same time. This means that the root directory could contain a list of subdirectories, each of which consists of a `pdbs` and `motif_pdbs` folder detailed above.
+Our standard pipeline currently supports evaluation of structures from unconditional generation (by setting version to `unconditional`) and motif scaffolding (`scaffold`). For both modes, we assume that the root directory contains a folder named `pdbs`, which contains the PDB files of generated structures to be evaluated. For motif scaffolding, we additionally assume that the root directory contains a folder named `motif_pdbs`, which contains the PDB files of the corresponding motif structures (with the same filename as the generated structure and residue index aligned). Note that for motif scaffolding, we also support evaluations of multiple problems at the same time. This means that the root directory could contain a list of subdirectories, each of which consists of a `pdbs` and `motif_pdbs` folder detailed above. When evaluating multiple motif scaffolding problems, our pipeline supports distribution of tasks across multiple GPUS by adding the following flags `--num_devices [NUM_GPUS] --num_processes [NUM_GPUS]`.
 
 Evaluation results are stored in the root directory, which contains:
 - a directory named `designs`, where each PDB file stores the fold model predicted structure that is most similar to the corresponding generated structure;
